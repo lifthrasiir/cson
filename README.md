@@ -20,7 +20,7 @@ CSON has many benefits:
   unlike several configuration file formats.
 * CSON is not whitespace-sensitive
   but still encourages writers to put the proper indentation.
-* [You can use it for evil!](crockford-on-evil)
+* [You can use it for evil!][crockford-on-evil]
 
 [crockford-on-evil]: https://en.wikipedia.org/wiki/Douglas_Crockford#Criticism
 
