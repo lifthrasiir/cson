@@ -205,7 +205,7 @@ Changes follow:
 ~~~~
   JSON-text = object
             / array
-+           / object-items
++           / ws object-items
 
   begin-array     = ws %x5B ws    ; [ left square bracket
   begin-object    = ws %x7B ws    ; { left curly bracket
