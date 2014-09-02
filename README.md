@@ -160,7 +160,7 @@ to separate verbatim strings (a bit better):
 }
 ~~~~
 
-You can use a bare string with quotes as the key in the object
+You can use a bare string without quotes as the key in the object
 as long as it does not contain certain chatacters
 including whitespaces and CSON-special punctuations:
 
@@ -519,6 +519,7 @@ Implementations
 Working in progress. Known implementations:
 
 * [CSON-js](http://0xabcdef.com/CSON-js/)
+* [CSON-rust](https://github.com/lifthrasiir/cson-rust)
 
 
 License
