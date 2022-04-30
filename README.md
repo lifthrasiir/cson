@@ -22,7 +22,7 @@ CSON has many benefits:
   but still encourages writers to put the proper indentation.
 * [You can use it for evil!][crockford-on-evil]
 
-[crockford-on-evil]: https://en.wikipedia.org/wiki/Douglas_Crockford#Criticism
+[crockford-on-evil]: https://en.wikipedia.org/wiki/Douglas_Crockford#%22Good,_not_Evil%22
 
 CSON is designed by [Kang Seonghoon][kang-seonghoon].
 While the core principle of CSON is set in stone,
